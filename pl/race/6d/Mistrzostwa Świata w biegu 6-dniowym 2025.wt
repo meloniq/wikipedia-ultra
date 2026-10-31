@@ -1,28 +1,65 @@
-'''Mistrzostwa Świata w biegu 6-dniowym 2025''' – zawody [[lekkoatletyka|lekkoatletyczne]], które odbyły się 28 kwietnia - 4 maja [[2025 w lekkoatletyce|2025]] w [[Vallon-Pont-d’Arc]], [[Francja]].
+https://pl.wikipedia.org/wiki/Mistrzostwa_%C5%9Awiata_w_biegu_6-dniowym_2025
+
+{{Zawody infobox
+ |nazwa                = Mistrzostwa Świata w biegu 6-dniowym 2025
+ |ikona                = 
+ |poprzednie           = [[Mistrzostwa Świata w biegu 6-dniowym 2024|2024]]
+ |następne             = [[Mistrzostwa Świata w biegu 6-dniowym 2026|2026]]
+ |grafika              = 
+ |podpis grafiki       = 
+ |data                 = 28 kwietnia – 4 maja 2025
+ |miejscowość          = [[Vallon-Pont-d’Arc]]
+ |organizator          = 
+ |liczba konkurencji   = 1
+ |liczba zawodników    = 
+ |liczba reprezentacji = 
+ |commons              = 
+ |www                  = 
+}}
+
+'''Mistrzostwa Świata w biegu 6-dniowym 2025''' – zawody [[lekkoatletyka|lekkoatletyczne]], które odbyły się w dniach 28 kwietnia – 4 maja 2025 w [[Vallon-Pont-d’Arc]], we [[Francja|Francji]].
+
 == Medaliści ==
 {| class="wikitable" width=100%
 |
-|!align="center" bgcolor="gold"|{{trofeum|medal świat|złoty}} '''1. miejsce'''
-|!align="center" |Rezultat
-|!align="center" bgcolor="silver"|{{trofeum|medal świat|srebrny}} '''2. miejsce'''
-|!align="center" |Rezultat
-|!align="center" bgcolor="cc9966"|{{trofeum|medal świat|brązowy}} '''3. miejsce'''
-|!align="center" |Rezultat
+|bgcolor="gold"| {{trofeum|medal świat|złoty}} '''1. miejsce'''
+| Rezultat
+|bgcolor="silver"| {{trofeum|medal świat|srebrny}} '''2. miejsce'''
+| Rezultat
+|bgcolor="cc9966"| {{trofeum|medal świat|brązowy}} '''3. miejsce'''
+| Rezultat
 |-
 |'''''Mężczyźni indywidualnie'''''
-|{{Flaga|RUS}} [[Ivan Zaborskii]] || 1047,554&nbsp;km [[Rekordy świata w lekkoatletyce|RŚ]]
+|{{Flaga|}} [[Iwan Zaborski]]|| 1047,554&nbsp;km {{Rekord|WR|link=Rekordy świata w lekkoatletyce}}
 |{{Flaga|BEL}} [[Frank Gielen]] || 900,487&nbsp;km
 |{{Flaga|FRA}} [[Jean-Michel Terme]] || 843,042&nbsp;km
 |-
+|'''''Mężczyźni drużynowo'''''
+| {{Wyniki konkursu drużynowego|{{Państwo|BEL}}|[[Frank Gielen]]|[[Merijn Geerts]]}}
+|| 1708,473&nbsp;km
+| {{Wyniki konkursu drużynowego|{{Państwo|FRA}}|[[Jean-Michel Terme]]|[[Christian Maduit]]}} 
+|| 1670,984&nbsp;km
+| {{Wyniki konkursu drużynowego|{{Państwo|GBR}}|[[Justin Montague]]|[[Stephen Pope]]}} 
+|| 1409,851&nbsp;km
+|-
 |'''''Kobiety indywidualnie'''''
-| {{Flaga|USA}} [[Megan Eckert]]|| 970,685&nbsp;km [[Rekordy świata w lekkoatletyce|RŚ]]
-| {{Flaga|RUS}} [[Irina Masanova]] || 832,937&nbsp;km
+| {{Flaga|USA}} [[Megan Eckert]] || 970,685&nbsp;km {{Rekord|WR|link=Rekordy świata w lekkoatletyce}}
+| {{Flaga|}} [[Irina Masanowa]]|| 832,937&nbsp;km
 | {{Flaga|ROU}} [[Mariana Nenu]] || 653,171&nbsp;km
+|-
+|'''''Kobiety drużynowo'''''
+| {{Wyniki konkursu drużynowego|{{Państwo|USA}}|[[Megan Eckert]]|[[Amy Mower]]}} 
+|| 1591,364&nbsp;km
+| {{Wyniki konkursu drużynowego|{{Państwo|FRA}}|[[Fabienne Gehin]]|[[Chantal Pain]]}}
+|| 1251,215&nbsp;km
+| {{Wyniki konkursu drużynowego|{{Państwo|ITA}}|[[Paola Coccato]]|[[Maria Ilaria Fossati]]}} 
+|| 1100,893&nbsp;km
 |}
 
 == Bibliografia ==
-* {{Cytuj | url = https://www.6jours-de-france-gerard-cain.fr/classements/2025/general/ | tytuł = World Championship Results | opublikowany = 6jours-de-france-gerard-cain.fr | data dostępu = 2025-06-03 | język = fr}}
-* {{Cytuj | url = https://statistik.d-u-v.org/eventdetail.php?event=109778 | tytuł = Race Results in DUV Ultra Marathon Statistics | opublikowany = d-u-v.org | data dostępu = 2025-06-03 | język = en}}
+* {{Cytuj |url = https://www.gomu.org/results-records/world-championship-results |tytuł = GOMU - World Championship Results |opublikowany = gomu.org |data dostępu = 2026-10-31 |język = en}}
+* {{Cytuj |url = https://www.6jours-de-france-gerard-cain.fr/classements/2025/general/ |tytuł = World Championship Results |opublikowany = 6jours-de-france-gerard-cain.fr |data dostępu = 2025-06-03 |język = fr}}
+* {{Cytuj |url = https://statistik.d-u-v.org/eventdetail.php?event=109778 |tytuł = Race Results in DUV Ultra Marathon Statistics |opublikowany = d-u-v.org |data dostępu = 2025-06-03 |język = en}}
 
 [[Kategoria:2025 w lekkoatletyce]]
 [[Kategoria:Imprezy biegowe]]
